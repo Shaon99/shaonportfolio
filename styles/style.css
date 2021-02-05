@@ -166,7 +166,7 @@ section .title::after{
 /* home */
 .home{
     display: flex;
-    background: url("../storage/shaon1.jpg") no-repeat center;
+    background: url("../storage/sha.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
